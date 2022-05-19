@@ -12,4 +12,4 @@ The training dataset consists of 20'000 symbols and the test dataset consists of
 If you have any further questions related to this repo, feel free to contact hamzaahmadafzal@gmail.com or raise an issue within this repo. I will do my best to reply as soon as possible.
 
 # References
-1. M. B. Mashhadi, N. Shlezinger, Y. C. Eldar, and D. G ̈und ̈uz, “Fedrec: Federated learning of universal receivers over fading channels,” in 2021 IEEE Statistical Signal    Processing Workshop (SSP), 2021, pp. 576–580.
+- M. B. Mashhadi, N. Shlezinger, Y. C. Eldar, and D. G ̈und ̈uz, “Fedrec: Federated learning of universal receivers over fading channels,” in 2021 IEEE Statistical Signal   Processing Workshop (SSP), 2021, pp. 576–580.

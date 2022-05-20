@@ -6,7 +6,6 @@ The training dataset consists of 20'000 symbols and the test dataset consists of
 
 # Summary
 ![figure 3 1](https://user-images.githubusercontent.com/100214665/169526894-20b8d13e-0650-470f-880c-c2434ecf586b.jpg)
-
 The above figure, figure 3.1. is pulled from the report which is accompanied by the code in this repo. It depicts reproduction of results from the literature using the code in this repo with a different fading-channel model; the Rician model, which is the personal contribution to the literature.   
 
 # Questions?
